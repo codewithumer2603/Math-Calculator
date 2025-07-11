@@ -44,10 +44,9 @@ def main():
         print("* : Multiply")
         print("/ : Divide")
         print("sin : Sine")
-        print("cos : Cosine")
-        print("tan : Tangent")
-        print("c : Clear")
-        print("e : Exit")
+       
+        print("Clear : Clear")
+        print("Exit : Exit")
 
         op = input("Enter operation: ").strip().lower()
 
